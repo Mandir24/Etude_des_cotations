@@ -223,6 +223,7 @@ source("scripts/Mission_2.R")
     </td>
     <td align="center">
     <a href="https://github.com/gamon-11"> <img src="https://github.com/gamon-11.png" width="100px;" alt=" Gamondele Maxime">
+      <br />
       <sub><b>Gamondele Maxime</b></sub>
     </td>
     <td align="center">
